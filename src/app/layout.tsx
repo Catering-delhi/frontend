@@ -14,11 +14,11 @@ import Preloader from "@/components/layout/Preloader";
 import WhatsAppFloat from "@/components/layout/WhatsAppFloat";
 
 export const metadata: Metadata = {
-  title: "Restaurantly",
-  description: "Restaurantly landing website built with Next.js",
+  title: "Bespoke-Cuisine",
+  description: "Bespoke-Cuisine landing website built with Next.js",
   icons: {
     icon: "/assets/img/logo.png",
-    apple: "/assets/img/apple-touch-icon.png",
+    apple: "/assets/img/logo.png",
   },
 };
 
