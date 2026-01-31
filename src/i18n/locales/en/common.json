@@ -1,0 +1,422 @@
+{
+  "site": {
+    "name": "BESPOKE CUISINE Inc"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "specials": "Specials",
+    "events": "Events",
+    "chefs": "Chefs",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "welcome": "Welcome to",
+    "subtitle": "SIGNATURE BITES, UNFORGETTABLE NIGHTS",
+    "ctaMenu": "Our Menu",
+    "ctaBook": "Book a Table",
+    "playVideo": "Play Video"
+  },
+  "about": {
+    "title": "Signature Bites, Unforgettable Nights",
+    "italic": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "bullets": {
+      "1": "Ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "2": "Duis aute irure dolor in reprehenderit in voluptate velit.",
+      "3": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur."
+    },
+    "desc": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  "why": {
+    "kicker": "WHY US",
+    "title": "Why Choose BESPOKE CUISINE",
+    "cards": {
+      "1": {
+        "title": "All Cuisines, Fully Customizable",
+        "desc": "North Indian, South Indian,  Continental,  Mughlai, Street Food, Authentic Desi and more—menus tailored to your taste, spice level, and budget."
+      },
+      "2": {
+        "title": "Fresh Ingredients & Fully Hygienic ",
+        "desc": "We cook fresh for every order with strict hygiene standards, we use quality products and consistent quality—so your guests enjoy every bite."
+      },
+      "3": {
+        "title": "Professional Corporate Expertise",
+        "desc": "Expertly managed catering solutions designed specifically for corporate events, ensuring smooth execution and a polished dining experience."
+      }
+    }
+  },
+  "menu": {
+    "kicker": "Menu",
+    "title": "Check Our Tasty Menu",
+    "filters": {
+      "all": "All",
+      "starters": "Starters",
+      "salads": "Salads",
+      "specialty": "Specialty"
+    },
+    "items": {
+      "lobster_bisque": {
+        "name": "Lobster Bisque",
+        "desc": "Lorem, deren, trataro, filede, nerada"
+      },
+      "grilled_snacks": {
+        "name": "Grilled Snacks",
+        "desc": "Smoky and flavorful snacks grilled to perfection, infused with aromatic spices and herbs."
+      },
+      "tandoor_snacks": {
+        "name": "Tandoor Snacks",
+        "desc": "Traditional tandoor-cooked appetizers with a perfect balance of char, spice, and tenderness."
+      },
+      "fried_snacks": {
+        "name": "Fried Snacks",
+        "desc": "Golden, crispy fried delights with bold flavors and satisfying crunch in every bite."
+      },
+      "spicy_snacks": {
+        "name": "Spicy Snacks",
+        "desc": "Fiery and flavorful snacks crafted for spice lovers who enjoy an extra kick."
+      },
+      "dairy_snacks": {
+        "name": "Dairy Snacks",
+        "desc": "Rich and creamy snacks made with milk, paneer, and cheese, offering smooth and indulgent flavors."
+      },
+      "conti_snacks": {
+        "name": "Conti Snacks",
+        "desc": "Popular continental-style snacks with a fusion of global flavors and modern seasoning."
+      },
+      "north_indian_classics": {
+        "name": "North Indian Classics",
+        "desc": "Timeless North Indian dishes cooked with rich gravies, slow-roasted spices, and traditional techniques"
+      },
+      "rajasthani_delights": {
+        "name": "Rajasthani Delights",
+        "desc": "Royal Rajasthani recipes known for bold spices, rustic flavors, and heritage cooking styles"
+      },
+      "taste_of_uttar_pradesh": {
+        "name": "Taste of Uttar Pradesh",
+        "desc": "Authentic Awadhi and UP-style dishes with subtle spices and deep, layered flavors"
+      },
+      "flavours_of_bihar": {
+        "name": "Flavours of Bihar",
+        "desc": "Traditional Bihari cuisine featuring earthy spices and home-style preparations"
+      },
+      "punjabi_special": {
+        "name": "Punjabi Special",
+        "desc": "Robust Punjabi dishes packed with butter, cream, and bold North Indian spices"
+      },
+      "live_live_tawas": {
+        "name": "Live Tawas",
+        "desc": "Freshly cooked tawa-style dishes prepared live with aromatic Punjabi spices"
+      },
+      "traditional_indian": {
+        "name": "Traditional Indian",
+        "desc": "Classic Indian desserts made using age-old recipes and rich ingredients"
+      },
+      "kheers": {
+        "name": "Kheers",
+        "desc": "Slow-cooked creamy puddings infused with cardamom, nuts, and saffron"
+      },
+      "halwas": {
+        "name": "Halwas",
+        "desc": "Dense and rich Indian sweets prepared with ghee, grains, and dry fruits"
+      },
+      "cold_desserts": {
+        "name": "Cold Desserts",
+        "desc": "Chilled desserts offering refreshing flavors and light sweetness"
+      },
+      "western_desserts": {
+        "name": "Western Desserts",
+        "desc": "Classic Western confections with smooth textures and balanced sweetness"
+      },
+      "live_desserts": {
+        "name": "Live Desserts",
+        "desc": "Desserts freshly prepared live for a warm, indulgent experience"
+      },
+      "indian_greens": {
+        "name": "Indian Greens",
+        "desc": "Nutritious Indian leafy vegetables cooked with traditional seasoning"
+      },
+      "exotic_vegetable": {
+        "name": "Exotic Vegetable",
+        "desc": "Premium exotic vegetables prepared with refined techniques and subtle spices"
+      },
+      "continental_salad_bar": {
+        "name": "Continental Salad Bar",
+        "desc": "Freshly tossed continental salads with crisp greens and light dressings"
+      },
+      "assortments_of_raitas": {
+        "name": "Assortments of Raitas",
+        "desc": "Cooling yogurt-based accompaniments blended with herbs, fruits, and spices"
+      },
+      "indian_soups": {
+        "name": "Indian Soups",
+        "desc": "Comforting Indian soups flavored with traditional spices and herbs"
+      },
+      "thai_soups": {
+        "name": "Thai Soups",
+        "desc": "Fragrant Thai soups infused with lemongrass, galangal, and fresh herbs"
+      },
+      "chinese_soups": {
+        "name": "Chinese Soups",
+        "desc": "Flavorful Chinese soups with vegetables, noodles, and aromatic seasonings"
+      },
+      "greek_salad": {
+        "name": "Greek Salad",
+        "desc": "Crisp greens, tomatoes, olives, and feta tossed in classic Greek dressing"
+      },
+      "spinach_salad": {
+        "name": "Spinach Salad",
+        "desc": "Fresh spinach leaves paired with mushrooms, egg, and warm vinaigrette"
+      },
+      "continental": {
+        "name": "Continental",
+        "desc": "European-style soups with light textures and refined flavors"
+      },
+      "modern_indian": {
+        "name": "Modern Indian",
+        "desc": "Contemporary Indian soups reimagined with creative ingredients"
+      },
+      "european_classics": {
+        "name": "European Classics",
+        "desc": "Traditional European soups prepared using classic recipes"
+      },
+      "western_comfort": {
+        "name": "Western Comfort",
+        "desc": "Hearty Western soups designed for warmth and comfort"
+      },
+      "authentic_thai": {
+        "name": "Authentic Thai",
+        "desc": "Traditional Thai soups featuring bold, authentic spice profiles"
+      },
+      "ching_chinese": {
+        "name": "Ching Chinese",
+        "desc": "Indo-Chinese soups with familiar flavors and spicy undertones"
+      },
+      "afghani_delights": {
+        "name": "Afghani Delights",
+        "desc": "Mild yet flavorful Afghan-style soups with rich textures"
+      },
+      
+      "tawa_paratha_live": {
+        "name": "Tawa Paratha Live",
+        "desc": "Hot, flaky parathas cooked live on the tawa and served fresh"
+      },
+      "tawa_fulka_roti": {
+        "name": "Tawa Fulka (Roti)",
+        "desc": "Soft, puffed rotis freshly cooked on a traditional tawa"
+      },
+      "tandoori_breads": {
+        "name": "Tandoori Breads",
+        "desc": "Assorted breads baked in a clay tandoor with smoky aroma"
+      },
+      "live_parathas": {
+        "name": "Live Parathas",
+        "desc": "Fresh parathas prepared live using traditional dough and fillings"
+      },
+      "steamed_rice": {
+        "name": "Steamed Rice",
+        "desc": "Perfectly steamed rice with delicate texture and natural aroma"
+      },
+      "biryanis": {
+        "name": "Biryanis",
+        "desc": "Fragrant rice layered with spices, herbs, and vegetables or meat"
+      },
+      "sweet_rice": {
+        "name": "Sweet Rice",
+        "desc": "Lightly sweetened rice dishes infused with aromatic flavors"
+      },
+      "dimsum": {
+        "name": "Dimsum",
+        "desc": "Steamed dumplings filled with delicately seasoned vegetables or meats"
+      },
+      "sushi": {
+        "name": "Sushi",
+        "desc": "Freshly rolled sushi with seasoned rice and premium fillings"
+      },
+      "pizza": {
+        "name": "Pizza",
+        "desc": "Freshly baked pizzas topped with flavorful sauces and melted cheese"
+      },
+      "avocado_bar": {
+        "name": "Avocado Bar",
+        "desc": "Fresh avocado-based creations paired with global seasonings"
+      },
+      "shawarma": {
+        "name": "Shawarma",
+        "desc": "Slow-roasted marinated fillings wrapped in warm bread with sauces"
+      },
+      "pasta": {
+        "name": "Pasta",
+        "desc": "Classic pasta dishes prepared with rich sauces and fresh ingredients"
+      },
+      "teppanyaki": {
+        "name": "Teppanyaki",
+        "desc": "Live Japanese-style grilling with fresh ingredients and bold flavors"
+      },
+      "burrata": {
+        "name": "Burrata",
+        "desc": "Soft Italian burrata cheese with creamy center and delicate texture"
+      },
+      "bao": {
+        "name": "Bao",
+        "desc": "Soft steamed buns filled with flavorful meats or vegetables"
+      },
+      "oriental_bowl": {
+        "name": "Oriental Bowl",
+        "desc": "Wholesome bowls featuring fresh ingredients and oriental flavors"
+      },
+      "delhi_chaat": {
+        "name": "Delhi Special",
+        "desc": "Iconic Delhi street chaats bursting with tangy chutneys, bold spices, and classic flavors."
+      },
+      "kolkata_chaat": {
+        "name": "UP Special",
+        "desc": "Traditional Uttar Pradesh–style chaats known for balanced spices and rich, layered taste."
+      },
+      "fusion_chaat": {
+        "name": "Bespoke Special",
+        "desc": "Signature chaats crafted with creative combinations of Indian and global flavors."
+      },
+      "continental_chaat": {
+        "name": "Millet Special",
+        "desc": "Healthy and wholesome chaats made with nutritious millets and fresh ingredients."
+      },
+      "health_conscious_chaat": {
+        "name": "Western Style",
+        "desc": "Modern, western-inspired chaats featuring light flavors and contemporary presentation."
+      },
+      "millet_chaat": {
+        "name": "Fusion Style",
+        "desc": "Innovative chaats blending Indian street food with global cuisines and unique twists."
+      },
+      "desi_style": {
+        "name": "Desi Style",
+        "desc": "Authentic desi chaats prepared using traditional recipes and timeless Indian flavors."
+      },
+      "regular_chaats": {
+        "name": "Regular Chaats",
+        "desc": "All-time favorite classic chaats perfect for everyday indulgence."
+      },
+      "malabari_paratha": {
+        "name": "Malabari Paratha",
+        "desc": "Soft, flaky layered paratha from the Malabar coast, rich and buttery in taste"
+      },
+      "vegetable_stew": {
+        "name": "Vegetable Stew",
+        "desc": "Mild and aromatic coconut milk stew cooked with fresh vegetables and whole spices"
+      },
+      "appam": {
+        "name": "Appam",
+        "desc": "Soft fermented rice pancakes with crisp edges and a fluffy center"
+      },
+      "masala_plain_dosa": {
+        "name": "Masala and Plain Dosa",
+        "desc": "Thin, crispy dosas served plain or filled with classic spiced potato masala"
+      },
+      "idli_dosa": {
+        "name": "Idli Dosa",
+        "desc": "Steamed fluffy idlis paired with golden, crispy fermented dosas"
+      },
+      "sambar": {
+        "name": "Sambar",
+        "desc": "Traditional South Indian lentil stew with vegetables, tamarind, and aromatic spices"
+      },
+      "thakkali_sadam": {
+        "name": "Thakkali Sadam",
+        "desc": "Flavorful South Indian tomato rice seasoned with fragrant spices"
+      },
+      "andhra_bhindi_masala": {
+        "name": "Andhra Bhindi Masala",
+        "desc": "Fiery Andhra-style okra curry tossed with bold spices and tangy flavors"
+      }
+    }
+  },
+  "specials": {
+    "kicker": "Specials",
+    "title": "Check Our Specials",
+    "tabs": {
+      "1": "Modi sit est",
+      "2": "Unde praesentium sed",
+      "3": "Pariatur explicabo vel",
+      "4": "Nostrum qui quasi",
+      "5": "Iusto ut expedita aut"
+    },
+    "items": {
+      "1": {
+        "title": "Architecto ut aperiam autem id",
+        "italic": "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka",
+        "desc": "Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero"
+      },
+      "2": {
+        "title": "Et blanditiis nemo veritatis excepturi",
+        "italic": "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka",
+        "desc": "Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal"
+      },
+      "3": {
+        "title": "Impedit facilis occaecati odio neque aperiam sit",
+        "italic": "Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut",
+        "desc": "Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit aut quod. Eum non fuga consequatur quasi aut. Suscipit fugiat sit ullam. Soluta et harum voluptatem optio quae"
+      },
+      "4": {
+        "title": "Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore",
+        "italic": "Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus",
+        "desc": "Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore"
+      },
+      "5": {
+        "title": "Est eveniet ipsam sindera pad rone matrelat sando reda",
+        "italic": "Omnis blanditiis saepe eos autem qui sunt debitis porro quia.",
+        "desc": "Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel"
+      }
+    }
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Contact Us",
+    "locationTitle": "Location",
+    "locationValue": "Shani Dham Chattarpur, Delhi India",
+    "hoursTitle": "Open Hours",
+    "hoursLine1": "Monday-Saturday:",
+    "hoursLine2": "11:00 AM - 23:00 PM",
+    "emailTitle": "Email",
+    "callTitle": "Call",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Message",
+      "loading": "Loading",
+      "success": "Your message has been sent. Thank you!",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "addressLine1": "Shani Dham Chattarpur",
+    "addressLine2": "Delhi, India",
+    "phoneLabel": "Phone:",
+    "emailLabel": "Email:",
+    "usefulLinks": "Useful Links",
+    "servicesTitle": "Our Services",
+    "service1": "Web Design",
+    "service2": "Web Development",
+    "service3": "Product Management",
+    "service4": "Marketing",
+    "service5": "Graphic Design",
+    "newsletterTitle": "Our Newsletter",
+    "newsletterDesc": "Subscribe to our newsletter and receive the latest news about our products and services!",
+    "newsletterPlaceholder": "Email address",
+    "newsletterSuccess": "Subscribed (demo only).",
+    "subscribe": "Subscribe",
+    "copyright": "Copyright",
+    "rights": "All Rights Reserved",
+    "credits": "Designed by BootstrapMade",
+    "starterPage": "Starter Page"
+  },
+  "starter": {
+    "pageTitle": "Starter Page",
+    "pageDesc": "Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.",
+    "sectionKicker": "Starter Section",
+    "sectionTitle": "Starter Section",
+    "sectionBody": "Use this page as a starter for your own custom pages."
+  }
+}

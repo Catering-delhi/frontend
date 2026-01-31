@@ -1,0 +1,38 @@
+// src/data/gallery.ts
+export const galleryCategories: Record<string, string[]> = {
+  "live counter": [
+    "assets/img/New image/1.jpg",
+    "assets/img/New image/2.jpg",
+    "assets/img/New image/3.jpg",
+    "assets/img/New image/4.jpg",
+    "assets/img/New image/5.jpg",
+    "assets/img/New image/6.jpg",
+    "assets/img/New image/7.jpg",
+    "assets/img/New image/8.jpg",
+    "assets/img/New image/9.jpg",
+    "assets/img/New image/10.jpg",
+  ],
+  "chats counter": [
+    "assets/img/New image/11.jpg",
+    "assets/img/New image/12.jpg",
+    "assets/img/New image/13.jpg",
+    "assets/img/New image/14.jpg",
+    "assets/img/New image/15.jpg",
+    "assets/img/New image/16.jpg",
+    "assets/img/New image/17.jpg",
+    "assets/img/New image/18.jpg",
+    "assets/img/New image/19.jpg",
+    "assets/img/New image/20.jpg",
+  ],
+  "main course counter": [
+    "assets/img/New image/21.jpg",
+    "assets/img/New image/22.jpg",
+    "assets/img/New image/23.jpg",
+    "assets/img/New image/24.jpg",
+    "assets/img/New image/25.jpg",
+    "assets/img/New image/26.jpg",
+    "assets/img/New image/27.jpg",
+    "assets/img/New image/28.jpg",
+    "assets/img/New image/29.jpg",
+  ],
+};
