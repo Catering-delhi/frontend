@@ -21,8 +21,8 @@ export default function Chefs() {
   return (
     <section id="chefs" className="chefs section">
       <SectionTitle
-        kicker={t("Top Quality chefs to your needs")}
-        title={t("Our Chef's")}
+        kicker={t("Our Culinary Moments")}
+        title={t("Service Highlights")}
       />
 
       <div className="container">

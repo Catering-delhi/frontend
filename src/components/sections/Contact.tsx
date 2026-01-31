@@ -66,38 +66,47 @@ export default function Contact() {
                 </div>
 
                 <div className="col-md-6">
-                  <Reveal>
-                    <div
-                      className="info-item d-flex"
-                      data-aos="fade-up"
-                      data-aos-delay="400"
-                      style={{ gap: 14, padding: "14px 0" }}
-                    >
-                      <i
-                        className="bi bi-clock flex-shrink-0"
-                        style={{ fontSize: 34, lineHeight: 1 }}
-                      />
-                      <div>
-                        <h3
-                          style={{
-                            fontSize: 24,
-                            fontWeight: 700,
-                            margin: "0 0 8px",
-                          }}
-                        >
-                          {t("contact.hoursTitle", {
-                            defaultValue: "Open Hours",
-                          })}
-                        </h3>
-                        <p style={{ fontSize: 18, margin: 0 }}>
-                          {t("contact.hoursLine1")}
-                          <br />
-                          {t("contact.hoursLine2")}
-                        </p>
-                      </div>
-                    </div>
-                  </Reveal>
-                </div>
+  <Reveal>
+    <div
+      className="info-item d-flex"
+      data-aos="fade-up"
+      data-aos-delay="400"
+      style={{ gap: 14, padding: "14px 0" }}
+    >
+      <i
+        className="bi bi-whatsapp flex-shrink-0"
+        style={{
+          fontSize: 34,
+          lineHeight: 1,
+          color: "black", // WhatsApp green (optional)
+        }}
+      />
+      <div>
+        <h3
+          style={{
+            fontSize: 24,
+            fontWeight: 700,
+            margin: "0 0 8px",
+          }}
+        >
+          {t("contact.whatsappTitle", {
+            defaultValue: "WhatsApp Us",
+          })}
+        </h3>
+        <p style={{ fontSize: 18, margin: 0 }}>
+          {t("contact.whatsappLine1", {
+            defaultValue: "+91-9773645975",
+          })}
+          <br />
+          {t("contact.whatsappLine2", {
+            defaultValue: "+91-9354069738",
+          })}
+        </p>
+      </div>
+    </div>
+  </Reveal>
+</div>
+
 
                 <div className="col-md-6">
                   <Reveal>
@@ -125,7 +134,6 @@ export default function Contact() {
                           <a
                             className="text-reset"
                             href={`tel:${t("topbar.phone")}`}
-                            // style={{ textDecoration: "none", fontSize: 18 }}
                           >
                             {t("+91-8595572638")}
                           </a>

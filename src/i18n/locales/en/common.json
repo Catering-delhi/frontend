@@ -391,26 +391,27 @@
     }
   },
   "footer": {
-    "addressLine1": "Shani Dham Chattarpur",
+     "addressLine1": "Shani Dham Chattarpur",
     "addressLine2": "Delhi, India",
-    "phoneLabel": "Phone:",
-    "emailLabel": "Email:",
+
+    "phoneLabel": "Phone",
+    "phone1": "+91 9773645975",
+    "phone2": "+91 9354069738",
+
+    "emailLabel": "Email",
+    "email": "bespokecuisineinc@gmail.com",
+
     "usefulLinks": "Useful Links",
     "servicesTitle": "Our Services",
-    "service1": "Web Design",
-    "service2": "Web Development",
-    "service3": "Product Management",
-    "service4": "Marketing",
-    "service5": "Graphic Design",
+
     "newsletterTitle": "Our Newsletter",
     "newsletterDesc": "Subscribe to our newsletter and receive the latest news about our products and services!",
     "newsletterPlaceholder": "Email address",
     "newsletterSuccess": "Subscribed (demo only).",
     "subscribe": "Subscribe",
+
     "copyright": "Copyright",
-    "rights": "All Rights Reserved",
-    "credits": "Designed by BootstrapMade",
-    "starterPage": "Starter Page"
+    "rights": "All Rights Reserved"
   },
   "starter": {
     "pageTitle": "Starter Page",

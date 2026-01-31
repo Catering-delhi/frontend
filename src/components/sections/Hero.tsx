@@ -58,7 +58,7 @@ export default function Hero() {
             {/* ✅ Subtitle */}
             <Reveal delay={0.15}>
               <p className={`hero-subtitle ${loraItalic.variable}`}>
-                Signature <span className="yellow-highlight">Bites,</span>, Unforgettable{" "}
+                Signature <span className="yellow-highlight">Bites,</span> Unforgettable{" "}
                 <span className="yellow-highlight">Nights</span>
               </p>
             </Reveal>

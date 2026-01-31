@@ -23,7 +23,7 @@ export const chefs: Chef[] = [
     id: "william",
     nameKey: "chefs.items.william.name",
     roleKey: "chefs.items.william.role",
-    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841416/card3_ho2zjs.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769867339/38143_emf6cz.jpg",
   },
   {
     id: "william",
@@ -35,19 +35,25 @@ export const chefs: Chef[] = [
     id: "william",
     nameKey: "chefs.items.william.name",
     roleKey: "chefs.items.william.role",
-    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841416/card5_vojpjw.png",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769867340/38144_blzoaq.jpg",
   },
   {
     id: "william",
     nameKey: "chefs.items.william.name",
     roleKey: "chefs.items.william.role",
-    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841416/card6_tdrklr.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769867340/38144_blzoaq.jpg",
   },
   {
     id: "william",
     nameKey: "chefs.items.william.name",
     roleKey: "chefs.items.william.role",
     image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841418/card7_koofeh.jpg",
+  },
+  {
+    id: "william",
+    nameKey: "chefs.items.william.name",
+    roleKey: "chefs.items.william.role",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769867341/IMG_0559_wwak7y.heic",
   },
   
   

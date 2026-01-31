@@ -17,7 +17,7 @@ const services: Service[] = [
     icon: "bi-gift-fill",
     title: "Birthday Catering",
     description:
-      "Bespoke CUISINE creates birthday menus with starters, mains, desserts, mocktails,  live counters, themed setup, and professional catering services.",
+      "Bespoke Cuisine creates birthday menus with starters, mains, desserts, mocktails,  live counters, themed setup, and professional catering services.",
   },
   {
     icon: "bi-cake2-fill",
@@ -87,10 +87,7 @@ export default function Services() {
                   }}
                 >
                   <span style={{ color: "#cda45e", fontWeight: 700 }}>
-                    Bespoke {" "}
-                  </span>
-                  <span style={{ color: "#e63946", fontWeight: 700 }}>
-                     Cuisine{" "}
+                    Bespoke Cuisine {" "}
                   </span>
                   delivers premium catering for birthdays, weddings, private
                   parties, and corporate events.
