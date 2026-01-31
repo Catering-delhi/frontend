@@ -69,15 +69,7 @@ export default function Testimonials() {
                           fontFamily: "var(--font-lora-italic)",
                         }}
                       >
-                        <i
-                          className="bi bi-quote quote-icon-left"
-                          aria-hidden="true"
-                        />
                         {t(x.quoteKey)}
-                        <i
-                          className="bi bi-quote quote-icon-right"
-                          aria-hidden="true"
-                        />
                       </p>
 
                       {/* ✅ Name font */}

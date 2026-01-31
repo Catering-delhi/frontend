@@ -8,7 +8,8 @@ import Reveal from "@/components/ui/Reveal";
 export default function Contact() {
   const { t } = useTranslation("common");
 
-  const showcaseImg = "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841417/contactpage_rs6vme.webp";
+  const showcaseImg =
+    "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841417/contactpage_rs6vme.webp";
 
   return (
     <section id="contact" className="contact section py-5">
@@ -32,7 +33,6 @@ export default function Contact() {
           <div className="row gy-4 align-items-center justify-content-between">
             <div className="col-lg-7 col-xl-6">
               <div className="row gy-4">
-               
                 <div className="col-md-6">
                   <Reveal>
                     <div
@@ -66,47 +66,43 @@ export default function Contact() {
                 </div>
 
                 <div className="col-md-6">
-  <Reveal>
-    <div
-      className="info-item d-flex"
-      data-aos="fade-up"
-      data-aos-delay="400"
-      style={{ gap: 14, padding: "14px 0" }}
-    >
-      <i
-        className="bi bi-whatsapp flex-shrink-0"
-        style={{
-          fontSize: 34,
-          lineHeight: 1,
-          color: "black", // WhatsApp green (optional)
-        }}
-      />
-      <div>
-        <h3
-          style={{
-            fontSize: 24,
-            fontWeight: 700,
-            margin: "0 0 8px",
-          }}
-        >
-          {t("contact.whatsappTitle", {
-            defaultValue: "WhatsApp Us",
-          })}
-        </h3>
-        <p style={{ fontSize: 18, margin: 0 }}>
-          {t("contact.whatsappLine1", {
-            defaultValue: "+91-9773645975",
-          })}
-          <br />
-          {t("contact.whatsappLine2", {
-            defaultValue: "+91-9354069738",
-          })}
-        </p>
-      </div>
-    </div>
-  </Reveal>
-</div>
-
+                  <Reveal>
+                    <div
+                      className="info-item d-flex"
+                      data-aos="fade-up"
+                      data-aos-delay="400"
+                      style={{ gap: 14, padding: "14px 0" }}
+                    >
+                      <i
+                        className="bi bi-whatsapp flex-shrink-0"
+                        style={{
+                          fontSize: 34,
+                          lineHeight: 1,
+                          color: "black", // WhatsApp green (optional)
+                        }}
+                      />
+                      <div>
+                        <h3
+                          style={{
+                            fontSize: 24,
+                            fontWeight: 700,
+                            margin: "0 0 8px",
+                          }}
+                        >
+                          {t("contact.whatsappTitle", {
+                            defaultValue: "WhatsApp Us",
+                          })}
+                        </h3>
+                        <p style={{ fontSize: 18, margin: 0 }}>
+                          {t("contact.whatsappLine1", {
+                            defaultValue: "+91-8595572638",
+                          })}
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </Reveal>
+                </div>
 
                 <div className="col-md-6">
                   <Reveal>
@@ -135,7 +131,9 @@ export default function Contact() {
                             className="text-reset"
                             href={`tel:${t("topbar.phone")}`}
                           >
-                            {t("+91-8595572638")}
+                            {t("+91-9773645975")}
+                            <br />
+                            {t("+91-9354069738")}
                           </a>
                         </p>
                       </div>

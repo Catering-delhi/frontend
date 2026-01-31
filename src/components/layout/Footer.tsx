@@ -32,7 +32,9 @@ export default function Footer() {
               <p className="mt-3">
                 <strong>{t("footer.phoneLabel")}:</strong>{" "}
                 <span>
+                  <br />
                   <a href="tel:+919773645975">{t("footer.phone1")}</a>,{" "}
+                  <br />
                   <a href="tel:+919354069738">{t("footer.phone2")}</a>
                 </span>
               </p>

@@ -53,7 +53,7 @@ export const chefs: Chef[] = [
     id: "william",
     nameKey: "chefs.items.william.name",
     roleKey: "chefs.items.william.role",
-    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769867341/IMG_0559_wwak7y.heic",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769867340/43983_rj0dov.jpg",
   },
   
   

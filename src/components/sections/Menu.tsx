@@ -28,7 +28,7 @@ const orders: OrderItem[] = [
   },
   {
     id: 2,
-    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841958/Chaat_egmavy.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769877117/chaatss_bh2k1l.jpg",
     title: "Chaats",
     description:
       "Classic Indian and International chaats by Bespoke Cuisine, crafted with freshness and refined presentation.",
