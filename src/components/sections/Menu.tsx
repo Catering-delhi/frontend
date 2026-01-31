@@ -21,61 +21,61 @@ interface OrderItem {
 const orders: OrderItem[] = [
   {
     id: 1,
-    image: "/assets/img/menu/Api.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841955/Api_twalw1.jpg",
     title: "Appetizers",
     description:
       "Bespoke Cuisine brings the thoughtfully crafted appetizers that set the tone for an exceptional dining experience.",
   },
   {
     id: 2,
-    image: "/assets/img/menu/Chaat.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841958/Chaat_egmavy.jpg",
     title: "Chaats",
     description:
       "Classic Indian and International chaats by Bespoke Cuisine, crafted with freshness and refined presentation.",
   },
   {
     id: 3,
-    image: "/assets/img/menu/Conti.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841960/Conti_m0bzxd.jpg",
     title: "Continental ",
     description:
       "Timeless continental dishes by Bespoke Cuisine, prepared with quality ingredients and balanced flavours.",
   },
   {
     id: 4,
-    image: "/assets/img/menu/main.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841965/main_u6ngtg.jpg",
     title: "Main Course",
     description:
       "The Soul of food, Signature main course creations by Bespoke Cuisine, crafted for depth, balance, and lasting flavour.",
   },
   {
     id: 5,
-    image: "/assets/img/menu/Dessert.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841962/dessert_kejhcx.jpg",
     title: "Desserts",
     description: "A refined collection of desserts by Bespoke Cuisine.",
   },
   {
     id: 6,
-    image: "/assets/img/menu/salad.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841970/salad_zjojei.jpg",
     title: "Soups and Salads",
     description: "Light, fresh salads and nourishing soups by Bespoke Cuisine.",
   },
   {
     id: 7,
-    image: "/assets/img/menu/South.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841972/south_ul7b7v.jpg",
     title: "South Indian",
     description:
       "Authentic South Indian cuisine by Bespoke Cuisine, featuring traditional flavors and spices.",
   },
   {
     id: 8,
-    image: "/assets/img/menu/fusion.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841964/fusion_rk7wmx.jpg",
     title: "Fusion Main Course ",
     description:
       "Warm and comforting soups by Bespoke Cuisine, perfect for any occasion.",
   },
   {
     id: 9,
-    image: "/assets/img/menu/roti.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841967/roti_jdhe9u.jpg",
     title: "Breads and Rices",
     description: "Freshly made rotis and aromatic rice dishes by Bespoke Cuisine.",
   },

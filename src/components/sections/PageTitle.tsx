@@ -24,7 +24,7 @@ export default function PageTitle({
   return (
     <div
       className={`page-title position-relative ${loraBold.variable} ${loraItalic.variable}`}
-      style={{ backgroundImage: "url(/assets/img/contact.webp)" }}
+      style={{ backgroundImage: "url(https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841417/contact_fmcuoc.jpg)" }}
     >
       <div className="container position-relative">
         {/* ✅ Title font changed */}

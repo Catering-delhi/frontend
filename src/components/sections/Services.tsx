@@ -197,7 +197,7 @@ export default function Services() {
             <div className="col-lg-6 order-2 order-lg-1 content">
               <Reveal>
                 <img
-                  src="/assets/img/homeab.jpg"
+                  src="https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841418/homeab_zaqtgb.jpg"
                   className="img-fluid about-img"
                   alt="Restaurant dining room"
                   style={{

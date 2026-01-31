@@ -8,7 +8,7 @@ import Reveal from "@/components/ui/Reveal";
 export default function Contact() {
   const { t } = useTranslation("common");
 
-  const showcaseImg = "/assets/img/contactpage.webp";
+  const showcaseImg = "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841417/contactpage_rs6vme.webp";
 
   return (
     <section id="contact" className="contact section py-5">

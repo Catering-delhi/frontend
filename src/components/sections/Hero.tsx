@@ -15,7 +15,7 @@ export default function Hero() {
   return (
     <section id="hero" className="hero section dark-background hero-custom">
       {/* ✅ responsive bg */}
-      <img className="hero-bg" src="/assets/img/hero-bg.JPG" alt="Hero Background" />
+      <img className="hero-bg" src="https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841417/hero-bg_r1gzjv.jpg" alt="Hero Background" />
 
       <div className="container hero-content">
         <div className="row">

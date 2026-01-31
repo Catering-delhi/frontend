@@ -18,7 +18,7 @@ export default function About() {
             <div className="col-lg-6 order-1 order-lg-2">
               <Reveal>
                 <img
-                  src="/assets/img/aboutus1.webp"
+                  src="https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841415/aboutus1_lp9mqq.webp"
                   className="img-fluid about-img"
                   alt="Restaurant dining room"
                   style={{
@@ -134,7 +134,7 @@ export default function About() {
                   <div className="mb-4">
                     <img
                       className="img-fluid"
-                      src="/assets/img/owner.JPG"
+                      src="https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841420/owner_ejpe4v.jpg"
                       alt="Team member"
                     />
                   </div>
@@ -171,7 +171,7 @@ export default function About() {
                   <div className="mb-4">
                     <img
                       className="img-fluid"
-                      src="/assets/img/Co-founder .JPG"
+                      src="https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841416/Co-founder_qvaosf.jpg"
                       alt="Team member"
                     />
                   </div>
@@ -208,7 +208,7 @@ export default function About() {
                   <div className="mb-4">
                     <img
                       className="img-fluid"
-                      src="/assets/img/Manager.jpg"
+                      src="https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841418/Manager_zjzpqx.jpg"
                       alt="Team member"
                     />
                   </div>

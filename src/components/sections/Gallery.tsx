@@ -18,8 +18,6 @@ export default function Gallery() {
 
   const tabRefs = useRef<(HTMLButtonElement | null)[]>([]);
   const indicatorRef = useRef<HTMLDivElement | null>(null);
-
-  // Move indicator precisely under active tab
   useEffect(() => {
     const index = categories.indexOf(activeCategory);
     const tab = tabRefs.current[index];
@@ -39,7 +37,7 @@ export default function Gallery() {
       setActiveCategory(category);
       setDisplayedImages(galleryCategories[category]);
       setIsGridVisible(true);
-    }, 150); // Corresponds to Bootstrap's fade transition duration
+    }, 150);
   };
 
   return (

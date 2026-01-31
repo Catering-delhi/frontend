@@ -27,7 +27,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "grilled_snacks",
     category: "appetizers",
-    image: "assets/img/menu/Appetizers/Grilled Snacks.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841565/Grilled_Snacks_kdzfzw.jpg",
     price: "$6.95",
     nameKey: "menu.items.grilled_snacks.name",
     descKey: "menu.items.grilled_snacks.desc",
@@ -35,7 +35,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "tandoor_snacks",
     category: "appetizers",
-    image: "assets/img/menu/Appetizers/Tandoor Snacks.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841565/Tandoor_Snacks_lnsnjt.jpg",
     price: "$7.95",
     nameKey: "menu.items.tandoor_snacks.name",
     descKey: "menu.items.tandoor_snacks.desc",
@@ -43,7 +43,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "fried_snacks",
     category: "appetizers",
-    image: "assets/img/menu/Appetizers/Fried Snacks.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841565/Fried_Snacks_sdqfji.jpg",
     price: "$8.95",
     nameKey: "menu.items.fried_snacks.name",
     descKey: "menu.items.fried_snacks.desc",
@@ -51,7 +51,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "spicy_snacks",
     category: "appetizers",
-    image: "assets/img/menu/Appetizers/Spicy Snacks.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841565/Spicy_Snacks_fhzeag.jpg",
     price: "$9.95",
     nameKey: "menu.items.spicy_snacks.name",
     descKey: "menu.items.spicy_snacks.desc",
@@ -59,7 +59,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "dairy_snacks",
     category: "appetizers",
-    image: "assets/img/menu/Appetizers/Dairy Snacks.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841564/Dairy_Snacks_bph6pz.jpg",
     price: "$10.95",
     nameKey: "menu.items.dairy_snacks.name",
     descKey: "menu.items.dairy_snacks.desc",
@@ -67,7 +67,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "conti_snacks",
     category: "appetizers",
-    image: "assets/img/menu/Appetizers/Conti Snacks.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841564/Conti_Snacks_k1dypz.jpg",
     price: "$11.95",
     nameKey: "menu.items.conti_snacks.name",
     descKey: "menu.items.conti_snacks.desc",
@@ -75,7 +75,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "north_indian_classics",
     category: "main_course",
-    image: "/assets/img/menu/Main Course/North Indian_.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841802/North_Indian__shtupb.jpg",
     price: "$12.95",
     nameKey: "menu.items.north_indian_classics.name",
     descKey: "menu.items.north_indian_classics.desc",
@@ -83,7 +83,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "rajasthani_delights",
     category: "main_course",
-    image: "/assets/img/menu/Main Course/Rajasthan_.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841814/Rajasthan__gwpjr7.jpg",
     price: "$13.95",
     nameKey: "menu.items.rajasthani_delights.name",
     descKey: "menu.items.rajasthani_delights.desc",
@@ -91,7 +91,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "taste_of_uttar_pradesh",
     category: "main_course",
-    image: "/assets/img/menu/Main Course/Up.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841820/Up_ybv1pt.jpg",
     price: "$14.95",
     nameKey: "menu.items.taste_of_uttar_pradesh.name",
     descKey: "menu.items.taste_of_uttar_pradesh.desc",
@@ -99,7 +99,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "flavours_of_bihar",
     category: "main_course",
-    image: "/assets/img/menu/Main Course/Bihar.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841799/Bihar_lcrvuo.jpg",
     price: "$15.95",
     nameKey: "menu.items.flavours_of_bihar.name",
     descKey: "menu.items.flavours_of_bihar.desc",
@@ -107,7 +107,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "punjabi_special",
     category: "main_course",
-    image: "/assets/img/menu/Main Course/Punjab.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841809/Punjab_av61kq.jpg",
     price: "$16.95",
     nameKey: "menu.items.punjabi_special.name",
     descKey: "menu.items.punjabi_special.desc",
@@ -115,7 +115,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "live_live_tawas",
     category: "main_course",
-    image: "/assets/img/menu/Main Course/Veg Tawa Live.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841825/Veg_Tawa_Live_cuyckp.jpg",
     price: "$18.95",
     nameKey: "menu.items.live_live_tawas.name",
     descKey: "menu.items.live_live_tawas.desc",
@@ -123,7 +123,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "traditional_indian",
     category: "desserts",
-    image: "/assets/img/menu/Dessert/Traditional Indian.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841715/Traditional_Indian_lnb182.jpg",
     price: "$8.95",
     nameKey: "menu.items.traditional_indian.name",
     descKey: "menu.items.traditional_indian.desc",
@@ -131,7 +131,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "kheers",
     category: "desserts",
-    image: "assets/img/menu/Dessert/Kheer.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841713/Kheer_ybpwo6.jpg",
     price: "$7.95",
     nameKey: "menu.items.kheers.name",
     descKey: "menu.items.kheers.desc",
@@ -139,7 +139,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "halwas",
     category: "desserts",
-    image: "assets/img/menu/Dessert/Halwa.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841712/Halwa_wjtlbp.jpg",
     price: "$9.95",
     nameKey: "menu.items.halwas.name",
     descKey: "menu.items.halwas.desc",
@@ -147,7 +147,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "cold_desserts",
     category: "desserts",
-    image: "assets/img/menu/Dessert/Cold Dessert_.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841711/Cold_Dessert__izw6yw.jpg",
     price: "$10.95",
     nameKey: "menu.items.cold_desserts.name",
     descKey: "menu.items.cold_desserts.desc",
@@ -155,7 +155,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "western_desserts",
     category: "desserts",
-    image: "assets/img/menu/Dessert/Western.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841716/Western_zmzqt4.jpg",
     price: "$11.95",
     nameKey: "menu.items.western_desserts.name",
     descKey: "menu.items.western_desserts.desc",
@@ -163,7 +163,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "live_desserts",
     category: "desserts",
-    image: "assets/img/menu/Dessert/Live.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841713/Live_hm1r8r.jpg",
     price: "$12.95",
     nameKey: "menu.items.live_desserts.name",
     descKey: "menu.items.live_desserts.desc",
@@ -171,7 +171,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "indian_greens",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Indian.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841854/Indian_igts85.jpg",
     price: "$5.95",
     nameKey: "menu.items.indian_greens.name",
     descKey: "menu.items.indian_greens.desc",
@@ -179,7 +179,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "exotic_vegetable",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Exotic Vegetables .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841850/Exotic_Vegetables_qoe5ye.jpg",
     price: "$6.95",
     nameKey: "menu.items.exotic_vegetable.name",
     descKey: "menu.items.exotic_vegetable.desc",
@@ -187,7 +187,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "continental_salad_bar",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Continental .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841848/Continental_c0hfw1.jpg",
     price: "$7.95",
     nameKey: "menu.items.continental_salad_bar.name",
     descKey: "menu.items.continental_salad_bar.desc",
@@ -195,7 +195,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "assortments_of_raitas",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Raita.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841855/Raita_urjxbe.jpg",
     price: "$8.95",
     nameKey: "menu.items.assortments_of_raitas.name",
     descKey: "menu.items.assortments_of_raitas.desc",
@@ -203,7 +203,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "indian_soups",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Indian Soup .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841851/Indian_Soup_xsuund.jpg",
     price: "$9.95",
     nameKey: "menu.items.indian_soups.name",
     descKey: "menu.items.indian_soups.desc",
@@ -211,7 +211,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "thai_soups",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Thai Soup.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841860/Thai_Soup_mxlid4.jpg",
     price: "$10.95",
     nameKey: "menu.items.thai_soups.name",
     descKey: "menu.items.thai_soups.desc",
@@ -219,7 +219,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "chinese_soups",
     category: "salad_soups",
-    image: "/assets/img/menu/Soups and Salad/Chinese Soup.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841846/Chinese_Soup_p95tkv.jpg",
     price: "$11.95",
     nameKey: "menu.items.chinese_soups.name",
     descKey: "menu.items.chinese_soups.desc",
@@ -227,7 +227,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "malabari_paratha",
     category: "south_indian",
-    image: "assets/img/menu/South Indian/malabar Paratha.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841900/malabar_Paratha_vbvaql.jpg",
     price: "$5.95",
     nameKey: "menu.items.malabari_paratha.name",
     descKey: "menu.items.malabari_paratha.desc",
@@ -243,7 +243,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "appam",
     category: "south_indian",
-    image: "/assets/img/menu/South Indian/Appam.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841906/Vegetable_Stew_fezvp8.jpg",
     price: "$7.95",
     nameKey: "menu.items.appam.name",
     descKey: "menu.items.appam.desc",
@@ -251,7 +251,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "masala_plain_dosa",
     category: "south_indian",
-    image: "/assets/img/menu/South Indian/Dosa.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841897/Dosa_ntb28l.jpg",
     price: "$8.95",
     nameKey: "menu.items.masala_plain_dosa.name",
     descKey: "menu.items.masala_plain_dosa.desc",
@@ -259,7 +259,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "idli_dosa",
     category: "south_indian",
-    image: "/assets/img/menu/South Indian/Idli.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841899/Idli_sz9rsf.jpg",
     price: "$9.95",
     nameKey: "menu.items.idli_dosa.name",
     descKey: "menu.items.idli_dosa.desc",
@@ -267,7 +267,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "sambar",
     category: "south_indian",
-    image: "/assets/img/menu/South Indian/sambar.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841902/sambar_cyagow.jpg",
     price: "$10.95",
     nameKey: "menu.items.sambar.name",
     descKey: "menu.items.sambar.desc",
@@ -275,7 +275,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "thakkali_sadam",
     category: "south_indian",
-    image: "/assets/img/menu/South Indian/Thakkali Sadam.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841904/Thakkali_Sadam_u5dz62.jpg",
     price: "$11.95",
     nameKey: "menu.items.thakkali_sadam.name",
     descKey: "menu.items.thakkali_sadam.desc",
@@ -283,7 +283,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "andhra_bhindi_masala",
     category: "south_indian",
-    image: "/assets/img/menu/South Indian/Andhra Bhindi Masala.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841894/Andhra_Bhindi_Masala_kwpgaj.jpg",
     price: "$12.95",
     nameKey: "menu.items.andhra_bhindi_masala.name",
     descKey: "menu.items.andhra_bhindi_masala.desc",
@@ -291,7 +291,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "modern_indian",
     category: "soups",
-    image: "/assets/img/menu/Fusion Main Course/Modern Indian.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841765/Modern_Indian_gjxiag.jpg",
     price: "$12.95",
     nameKey: "menu.items.modern_indian.name",
     descKey: "menu.items.modern_indian.desc",
@@ -299,7 +299,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "european_classics",
     category: "soups",
-    image: "/assets/img/menu/Fusion Main Course/European .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841764/European_cyn6j1.jpg",
     price: "$13.95",
     nameKey: "menu.items.european_classics.name",
     descKey: "menu.items.european_classics.desc",
@@ -307,7 +307,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "western_comfort",
     category: "soups",
-    image: "/assets/img/menu/Fusion Main Course/Western.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841767/Western_e4qhfp.jpg",
     price: "$14.95",
     nameKey: "menu.items.western_comfort.name",
     descKey: "menu.items.western_comfort.desc",
@@ -315,7 +315,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "authentic_thai",
     category: "soups",
-    image: "/assets/img/menu/Fusion Main Course/Thai.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841766/Thai_o5thyu.jpg",
     price: "$15.95",
     nameKey: "menu.items.authentic_thai.name",
     descKey: "menu.items.authentic_thai.desc",
@@ -323,7 +323,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "ching_chinese",
     category: "soups",
-    image: "/assets/img/menu/Fusion Main Course/Chinese.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841762/Chinese_jype0s.jpg",
     price: "$16.95",
     nameKey: "menu.items.ching_chinese.name",
     descKey: "menu.items.ching_chinese.desc",
@@ -331,7 +331,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "afghani_delights",
     category: "soups",
-    image: "/assets/img/menu/Fusion Main Course/Afghani .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841762/Afghani_xnlf2p.jpg",
     price: "$17.95",
     nameKey: "menu.items.afghani_delights.name",
     descKey: "menu.items.afghani_delights.desc",
@@ -339,7 +339,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "tawa_fulka_roti",
     category: "roti_rice",
-    image: "/assets/img/menu/Breads and Rice/Tawa Fulka.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841606/Tawa_Fulka_eytpha.jpg",
     price: "$5.95",
     nameKey: "menu.items.tawa_fulka_roti.name",
     descKey: "menu.items.tawa_fulka_roti.desc",
@@ -347,7 +347,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "tandoori_breads",
     category: "roti_rice",
-    image: "/assets/img/menu/Breads and Rice/Tandoori Breads.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841605/Tandoori_Breads_gso64z.jpg",
     price: "$6.95",
     nameKey: "menu.items.tandoori_breads.name",
     descKey: "menu.items.tandoori_breads.desc",
@@ -355,7 +355,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "live_parathas",
     category: "roti_rice",
-    image: "/assets/img/menu/Breads and Rice/Live Parathas.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841604/Live_Parathas_p5g4wf.jpg",
     price: "$7.95",
     nameKey: "menu.items.live_parathas.name",
     descKey: "menu.items.live_parathas.desc",
@@ -363,7 +363,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "steamed_rice",
     category: "roti_rice",
-    image: "/assets/img/menu/Breads and Rice/Steamed Rice.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841604/Steamed_Rice_spxatp.jpg",
     price: "$8.95",
     nameKey: "menu.items.steamed_rice.name",
     descKey: "menu.items.steamed_rice.desc",
@@ -371,7 +371,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "biryanis",
     category: "roti_rice",
-    image: "/assets/img/menu/Breads and Rice/Biryani.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841604/Biryani_a3ftlg.jpg",
     price: "$9.95",
     nameKey: "menu.items.biryanis.name",
     descKey: "menu.items.biryanis.desc",
@@ -379,7 +379,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "sweet_rice",
     category: "roti_rice",
-    image: "/assets/img/menu/Breads and Rice/Sweet Rice.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841605/Sweet_Rice_pfuten.jpg",
     price: "$10.95",
     nameKey: "menu.items.sweet_rice.name",
     descKey: "menu.items.sweet_rice.desc",
@@ -387,7 +387,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "dimsum",
     category: "continental",
-    image: "/assets/img/menu/Continental/Dimsum.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841672/Dimsum_dymmgv.jpg",
     price: "$8.95",
     nameKey: "menu.items.dimsum.name",
     descKey: "menu.items.dimsum.desc",
@@ -396,7 +396,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "sushi",
     category: "continental",
-    image: "/assets/img/menu/Continental/Sushi.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841676/Sushi_smplgt.jpg",
     price: "$10.95",
     nameKey: "menu.items.sushi.name",
     descKey: "menu.items.sushi.desc",
@@ -404,7 +404,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "pizza",
     category: "continental",
-    image: "/assets/img/menu/Continental/Pizza.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841674/Pizza_agpdpk.jpg",
     price: "$12.95",
     nameKey: "menu.items.pizza.name",
     descKey: "menu.items.pizza.desc",
@@ -412,7 +412,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "avocado_bar",
     category: "continental",
-    image: "/assets/img/menu/Continental/Avocado.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841669/Avocado_y6wnzt.jpg",
     price: "$9.95",
     nameKey: "menu.items.avocado_bar.name",
     descKey: "menu.items.avocado_bar.desc",
@@ -420,7 +420,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "shawarma",
     category: "continental",
-    image: "/assets/img/menu/Continental/Shawarma.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841675/Shawarma_xposjd.jpg",
     price: "$11.95",
     nameKey: "menu.items.shawarma.name",
     descKey: "menu.items.shawarma.desc",
@@ -428,7 +428,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "pasta",
     category: "continental",
-    image: "/assets/img/menu/Continental/Pasta.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841674/Pasta_o2ajny.jpg",
     price: "$13.95",
     nameKey: "menu.items.pasta.name",
     descKey: "menu.items.pasta.desc",
@@ -436,7 +436,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "teppanyaki",
     category: "continental",
-    image: "/assets/img/menu/Continental/Teppanyaki .jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841677/Teppanyaki_lhob2e.jpg",
     price: "$14.95",
     nameKey: "menu.items.teppanyaki.name",
     descKey: "menu.items.teppanyaki.desc",
@@ -444,7 +444,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "burrata",
     category: "continental",
-    image: "/assets/img/menu/Continental/Burrata.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841671/Burrata_zgbbpf.jpg",
     price: "$15.95",
     nameKey: "menu.items.burrata.name",
     descKey: "menu.items.burrata.desc",
@@ -452,7 +452,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "bao",
     category: "continental",
-    image: "/assets/img/menu/Continental/Bao.jpg",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841670/Bao_zmit3t.jpg",
     price: "$16.95",
     nameKey: "menu.items.bao.name",
     descKey: "menu.items.bao.desc",
@@ -460,7 +460,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "oriental_bowl",
     category: "continental",
-    image: "/assets/img/menu/Continental/Oriantal .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841673/Oriantal_waeuja.jpg",
     price: "$17.95",
     nameKey: "menu.items.oriental_bowl.name",
     descKey: "menu.items.oriental_bowl.desc",
@@ -468,7 +468,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "delhi_chaat",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Delhi Special.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841631/Delhi_Special_rcxi69.jpg",
     price: "$6.95",
     nameKey: "menu.items.delhi_chaat.name",
     descKey: "menu.items.delhi_chaat.desc",
@@ -476,7 +476,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "kolkata_chaat",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Up.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841635/Up_uvztrg.jpg",
     price: "$7.95",
     nameKey: "menu.items.kolkata_chaat.name",
     descKey: "menu.items.kolkata_chaat.desc",
@@ -484,7 +484,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "fusion_chaat",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Bespoke Special.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841630/Bespoke_Special_crifzw.jpg",
     price: "$8.95",
     nameKey: "menu.items.fusion_chaat.name",
     descKey: "menu.items.fusion_chaat.desc",
@@ -492,7 +492,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "continental_chaat",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Millet.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841633/Millet_n85gdr.jpg",
     price: "$9.95",
     nameKey: "menu.items.continental_chaat.name",
     descKey: "menu.items.continental_chaat.desc",
@@ -500,7 +500,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "health_conscious_chaat",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Western Style.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841635/Western_Style_offhkz.jpg",
     price: "$10.95",
     nameKey: "menu.items.health_conscious_chaat.name",
     descKey: "menu.items.health_conscious_chaat.desc",
@@ -508,7 +508,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "millet_chaat",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Fusion.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841632/Fusion_hth6np.jpg",
     price: "$11.95",
     nameKey: "menu.items.millet_chaat.name",
     descKey: "menu.items.millet_chaat.desc",
@@ -516,7 +516,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "desi_style",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Desi.JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841631/Desi_ecatpr.jpg",
     price: "$12.95",
     nameKey: "menu.items.desi_style.name",
     descKey: "menu.items.desi_style.desc",
@@ -524,7 +524,7 @@ export const menuItems: MenuItem[] = [
   {
     id: "regular_chaats",
     category: "chaats",
-    image: "/assets/img/menu/Chaats/Regular .JPG",
+    image: "https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841634/Regular_jmwjc3.jpg",
     price: "$13.95",
     nameKey: "menu.items.regular_chaats.name",
     descKey: "menu.items.regular_chaats.desc",

@@ -1025,7 +1025,7 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("https://res.cloudinary.com/dwsiqzqzy/image/upload/v1769841415/about-bg_mflrui.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
