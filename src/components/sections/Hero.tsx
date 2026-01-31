@@ -28,7 +28,7 @@ export default function Hero() {
                 </span>
 
                 {/* ✅ Main Title */}
-                <span className={`hero-brand ${loraBold.variable}`}>
+                <span className={`hero-brand ${loraItalic.variable}`}>
                   {/* BESPOKE */}
                   <span className="brand-word yellow">
                     <span className={`brand-first ${efcoBrookshire.variable}`}>B</span>
@@ -110,7 +110,7 @@ export default function Hero() {
         }
 
         .hero-brand {
-          font-family: var(--font-allan-bold);
+          font-family: var(--font-lora-italic);
           font-size: 48px;
           font-weight: 700;
           line-height: 1.1;
