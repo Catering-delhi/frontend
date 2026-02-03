@@ -8,7 +8,6 @@ import Reveal from "@/components/ui/Reveal";
 import Modal from "@/components/ui/Modal";
 import { menuItems, MenuCategory } from "@/data/menu";
 
-// ✅ fonts
 import { loraBold, loraItalic } from "@/fonts";
 
 interface OrderItem {
