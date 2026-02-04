@@ -8,9 +8,8 @@ function buildWhatsAppUrl(phoneE164NoPlus: string, message: string) {
 }
 
 export default function WhatsAppFloat() {
-  const phone = "+919773645975";
-  // const phone = "+9198595572638";
-  const msg = "Hi! I want to book a table. Please share availability.";
+  const phone = "+918595572638";
+  const msg = "I want to book a date. Please Share Availability and Menus";
 
   const href = buildWhatsAppUrl(phone, msg);
 
